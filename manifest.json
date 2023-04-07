@@ -1,6 +1,6 @@
 {
-    "name": "test_flutter",
-    "short_name": "test_flutter",
+    "name": "sslearn_teacher",
+    "short_name": "sslearn_teacher",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
